@@ -13,3 +13,7 @@ Todo bien, vos? -E
 
 Que tal el 3er dia? -m
 
+Perfectamente, gracias!
+
+Por favor pasame tu manual de git.
+
