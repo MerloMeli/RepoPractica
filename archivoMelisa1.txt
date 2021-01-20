@@ -1,4 +1,4 @@
-
+Ej 9
 
 Hola Ema 1!!!-m
 Como Estas?-m
@@ -13,10 +13,11 @@ Todo bien, vos? -E
 
 Que tal el 3er dia? -m
 
-Perfectamente, gracias!
+Perfectamente, gracias!-E
 
-Por favor pasame tu manual de git.
+Por favor pasame tu manual de git. - E
 
+Jajaja ya esta pasado -M
 
 Gracias! - E
 
